@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    font-weight: bold;
+    padding: ocap;
+    margin-inline-start: auto;
+
+}
+img{
+    width: 150px;
+    height: 150px;
+}
+div{
+    padding: 5px;
+    margin: 10px;
+    color: aquamarine;
+}
+h2{
+    color: blueviolet;
+    
+}
+   
